@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+head {
+  height: 400px;
+  background-color: #32e683;
+}
+
+nav {
+  display: flex;
+  background-color: #0f0f0f;
+  color: #efefef;
+  text-decoration: none;
+}
